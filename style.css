@@ -1,0 +1,40 @@
+#slider {
+    width: 720px;
+    height: 400px;
+    overflow: hidden;
+}
+
+#slider .slides {
+    margin: 0;
+    padding: 0;
+    height: 400px;
+    width: 6000px;
+    display: block;
+}
+
+#slider .slide {
+    float: left;
+    width: 720px;
+    height: 400px;
+    list-style-type: none;
+}
+
+.slide1 {
+    background: red;
+  }
+  
+  .slide2 {
+    background: blue;
+  }
+  
+  .slide3 {
+    background: green;
+  }
+  
+  .slide4 {
+    background: purple;
+  }
+  
+  .slide5 {
+    background: pink;
+  }
